@@ -1,4 +1,4 @@
-# Dataset on Measures of Disagreement over Expected Inflation
+.
 
 # Summary
 Simple measures of disagreement in expected inflation from the Michigan survey of consumers, the FRB New York survey of consumer expectations, and the ECB consumer expectations survey. This dataset was collated from public sources, so it can be **freely used** by other researchers.
