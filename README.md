@@ -26,7 +26,6 @@ Download in three formats:
 
 # Variables
 The data is at the monthly frequency, and was built directly from the public access micro data files of answers.
-
 <table>
   <tr style="background-color: #d4f4d3;">
     <th style="border: 2px solid #68b684; padding: 8px;">Column</th>
@@ -59,6 +58,7 @@ The data is at the monthly frequency, and was built directly from the public acc
   <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>*_ma</code></td>
     <td style="border: 2px solid #68b684; padding: 8px;">Moving average (9-month, centred)</td>
+  </tr>
 </table>
 
 ---
