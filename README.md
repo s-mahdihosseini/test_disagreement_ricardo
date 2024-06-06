@@ -34,7 +34,7 @@ The data is at the monthly frequency, and was built directly from the public acc
   </tr>
   <tr style="background-color: #f5f5f5;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>date</code></td>
-    <td style="border: 2px solid #68b684; padding: 8px;">Month / year</td>
+    <td style="border: 2px solid #68b684; padding: 8px;">Month year</td>
   </tr>
   <tr style="background-color: #d4f4d3;">
     <td style="border: 2px solid #68b684; padding: 8px;"><code>st_dev</code></td>
